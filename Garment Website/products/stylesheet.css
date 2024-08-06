@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    
+    margin: 100px;
+}
+p{
+    color: gold;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    border: 100px;                                     ;
+    font-family: sans-serif;
+    color: gold;
+}
+table{
+    width: 100%;
+}
+td{
+    color: gold;
+    text-align: center;
+}
+
+a
+{
+    color: goldenrod;
+}
+h2 {
+    text-align: center;
+    border: 100px;
+    font-family: sans-serif;
+    color: gold;
+  }

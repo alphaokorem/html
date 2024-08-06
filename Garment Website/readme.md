@@ -1,0 +1,1 @@
+Making a three page website using HTML and external CSS.
